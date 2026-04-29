@@ -1,0 +1,1 @@
+- [Always persist ideas to file](feedback_persist_ideas.md) — Never leave design decisions only in conversation; write to disk immediately
